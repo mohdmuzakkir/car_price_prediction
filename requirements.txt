@@ -6,3 +6,6 @@ pickle-mixin==1.0.2
 scikit-learn==0.24.2
 scipy==1.6.3
 gunicorn==19.9.0
+Werkzeug==2.0.1
+requests==2.25.1
+jsonify==0.5
